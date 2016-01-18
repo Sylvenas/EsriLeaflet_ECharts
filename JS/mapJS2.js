@@ -13,7 +13,7 @@ window.onresize = myChart.onresize;
 var option = {
     color: ['gold', 'aqua', 'lime'],
     title: {
-        text: '模拟迁徙',
+        text: '物流去向分析',
         subtext: '数据纯属虚构',
         x: 'center',
         textStyle: {
